@@ -1,1 +1,2 @@
 learning git repository
+ a chnane from clone repo
